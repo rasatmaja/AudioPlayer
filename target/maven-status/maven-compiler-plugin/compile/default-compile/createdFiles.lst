@@ -1,0 +1,5 @@
+org\rasio\audioplayer\PlayerController.class
+org\rasio\audioplayer\MainApp.class
+org\rasio\audioplayer\EllipseVisualizer1.class
+org\rasio\audioplayer\Visualizer.class
+org\rasio\audioplayer\ThresholdVisualizer.class
